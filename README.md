@@ -63,7 +63,7 @@ Para rodar os testes:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/FinanceApp.git
+git clone https://github.com/edwylugo/FinanceApp.git
 ```
 
 2. Abra o projeto:
@@ -90,8 +90,9 @@ open FinanceApp.xcodeproj
 
 | Dashboard                  | Transferência               | Histórico                    | Login (Opcional)            |
 |---------------------------|-----------------------------|------------------------------|-----------------------------|
-| ![](docs/dashboard.png)   | ![](docs/transfer.png)      | ![](docs/history.png)        | ![](docs/login.png)         |
+| ![](Screenshots/dashboard.png)   | ![](Screenshots/transfer.png)      | ![](Screenshots/historic.png)        | ![](Screenshots/login.png)         |
 
+- Preview em Screenshots/preview.mp4
 ---
 
 ## 👨‍💻 Autor
