@@ -19,7 +19,9 @@ struct TransactionRow: View {
                     .font(.caption)
                     .foregroundColor(.gray)
             }
+
             Spacer()
+
             Text(transaction.amount.asCurrencyBRL())
                 .foregroundColor(transaction.type == .credit ? .green : .red)
                 .bold()
